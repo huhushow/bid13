@@ -1,0 +1,24 @@
+{
+    "name": "henrypark/bid13",
+    "type": "project",
+    "require-dev": {
+        "pestphp/pest": "^3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Henrypark\\Bid13\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "huhushow",
+            "email": "huhushow@gmail.com"
+        }
+    ],
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
