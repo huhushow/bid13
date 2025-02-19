@@ -1,3 +1,7 @@
+question 1
+I can't test this API because Telesign signup phone number verification is broken now so it may not working
+but I refer to their PHP SDK so it will works.
+
 question 2
 goal : generate a scatter plot image from CSV
 what component I need?
